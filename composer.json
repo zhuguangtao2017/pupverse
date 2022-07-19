@@ -1,0 +1,19 @@
+{
+    "name": "pubu/pupverse",
+    "description": "pupverse",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pubu\\Pupverse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "1640919165",
+            "email": "1640919165@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
